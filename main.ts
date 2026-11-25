@@ -3,7 +3,7 @@ import { join } from "node:path";
 
 const ENTRY_FILENAME = "entry.txt";
 const ENTRY_LINE =
-  "partwalk (n.): the awkward stretch of walking in the same direction as someone right after saying goodbye.";
+  "unhum (n.): the sudden quiet that makes you realize a steady background noise had been running all along.";
 
 function writeEntry(): void {
   const outputDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
