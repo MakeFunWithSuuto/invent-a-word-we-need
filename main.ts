@@ -3,7 +3,7 @@ import { join } from "node:path";
 
 const ENTRY_FILENAME = "entry.txt";
 const ENTRY_LINE =
-  "misheft (n.): the startled upward jolt of lifting an object that turns out to be far lighter than expected.";
+  "hearsight (n.): the vivid picture of a person or place you have never seen, built entirely from someone else's stories.";
 
 function writeEntry(): void {
   const outputDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";

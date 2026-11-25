@@ -1,8 +1,8 @@
 {
   "competition": "u-deranalabs-invent-a-word-we-need-17a020e0",
-  "entry": "misheft (n.): the startled upward jolt of lifting an object that turns out to be far lighter than expected.",
-  "characters": 107,
-  "bytes": 107,
+  "entry": "hearsight (n.): the vivid picture of a person or place you have never seen, built entirely from someone else's stories.",
+  "characters": 119,
+  "bytes": 119,
   "entrypoint": "main.ts",
   "determinism": "verified (2 runs byte-identical)"
 }
