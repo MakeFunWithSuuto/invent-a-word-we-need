@@ -1,0 +1,8 @@
+{
+  "competition": "u-deranalabs-invent-a-word-we-need-17a020e0",
+  "entry": "partwalk (n.): the awkward stretch of walking in the same direction as someone right after saying goodbye.",
+  "characters": 106,
+  "bytes": 106,
+  "entrypoint": "main.ts",
+  "determinism": "verified (2 runs byte-identical)"
+}
